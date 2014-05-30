@@ -5,6 +5,10 @@ A puppet master and its agent living their life inside their docker container.
 
 ## Init
 
+First, create a container for the master: [See master/Readme](https://github.com/vvision/docker-puppet-master-agent/blob/master/master/Readme.md).
+
+When it's done, it is now possible to start a container with the agent: [See agent/Readme](https://github.com/vvision/docker-puppet-master-agent/blob/master/agent/Readme.md).
+
 ## Puppet Operations
 
 Once you have a master and a slave running.
